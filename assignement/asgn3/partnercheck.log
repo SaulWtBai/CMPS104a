@@ -1,0 +1,8 @@
+partnercheck: ./PARTNER: format OK:
+username = wbai1
+passwd   = *
+uid      = 201444
+gid      = 100
+gecos    = Wentian Bai
+home     = /afs/cats.ucsc.edu/users/w/wbai1
+shell    = /bin/bash
